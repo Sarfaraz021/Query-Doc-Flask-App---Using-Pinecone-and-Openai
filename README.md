@@ -1,0 +1,1 @@
+# Query-Doc-Flask-App---Using-Pinecone-and-Openai
